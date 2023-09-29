@@ -1,0 +1,37 @@
+leftnav:
+- identifier: ced982d5-a00c-08ce-036c-e889b4922714
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1bc03f8c-c5ec-e4f7-6e54-caa80e3e6d6b
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 63a8aefe-e36b-8e94-1d67-85cecd8b475a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: d89caab9-7df8-8b64-dd09-4cdc5d0ae4b1
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 7c36e477-b2c8-519e-991a-38991be35b69
+  name: Modeling Experiment (I)
+  pageRef: /pages/assignments/modeling-experiment-i
+  parent: d89caab9-7df8-8b64-dd09-4cdc5d0ae4b1
+  weight: 50
+- identifier: 51470a56-469d-26b3-2328-56ce0b36baa6
+  name: Modeling Experiment (II)
+  pageRef: /pages/assignments/modeling-experiment-ii
+  parent: d89caab9-7df8-8b64-dd09-4cdc5d0ae4b1
+  weight: 60
+- identifier: 592caa21-a33b-d20a-1a85-edf0681c340d
+  name: Midterm Presentation
+  pageRef: /pages/assignments/midterm-presentation
+  parent: d89caab9-7df8-8b64-dd09-4cdc5d0ae4b1
+  weight: 70
+- identifier: b24ca76d-9ddc-92c2-e3e2-2266bd4047c0
+  name: Penultimate & Final Review
+  pageRef: /pages/assignments/penultimate-final-review
+  parent: d89caab9-7df8-8b64-dd09-4cdc5d0ae4b1
+  weight: 80
